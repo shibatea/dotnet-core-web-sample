@@ -1,5 +1,6 @@
 [![Build Status](https://dev.azure.com/shibatea-github/github-pipeline/_apis/build/status/shibatea.dotnet-core-web-sample?branchName=master)](https://dev.azure.com/shibatea-github/github-pipeline/_build/latest?definitionId=3&branchName=master)
 
+
 # dotnet-core-web-sample
 ASP.NET Coreのサンプル
 
